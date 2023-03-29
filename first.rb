@@ -1,1 +1,1 @@
-puts 'GIT'
+puts ('GIT')
